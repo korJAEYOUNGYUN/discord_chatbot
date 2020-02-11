@@ -2,7 +2,7 @@
 
 A simple discord chatbot using dialogflow.
 
-<img src="screenshots/screenshot1.jpg" style="zoom: 67%;" />
+<img src="screenshots/screenshot1.JPG" style="zoom: 67%;" />
 
 For communicating with discord and dialogflow, you need to do the following steps.
 
@@ -19,7 +19,7 @@ The behavior and performance of your bot depends on the agent of your dialogflow
 
 python
 
-- discord.py
-- dialogflow
+- [discord.py](https://discordpy.readthedocs.io/en/latest/)
+- [dialogflow](https://dialogflow-python-client-v2.readthedocs.io/en/latest/)
 - python_dotenv
 
